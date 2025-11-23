@@ -1,4 +1,5 @@
 unityads.unity3d.com, 9071339215794, DIRECT
+google.com, pub-3134905702302865, DIRECT, f08c47fec0942fa0
 copper6.com, 766114, RESELLER
 video.unrulymedia.com, 657436911, RESELLER
 video.unrulymedia.com, 755432070, RESELLER
@@ -302,4 +303,5 @@ xandr.com, 15769, RESELLER
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 eskimi.com, 2020000545, RESELLER
+
 eskimi.com, 2020000663, RESELLER
