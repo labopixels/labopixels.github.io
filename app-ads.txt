@@ -445,3 +445,26 @@ vidoomy.com, 8953515, RESELLER
 video.unrulymedia.com, 201313863, RESELLER
 loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
 nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
+pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+bigo.sg, adidz3dyfp, RESELLER
+video.unrulymedia.com, 947824792, RESELLER
+media.net, 8CUSC3UJ7, RESELLER
+thunder-monetize.com, 2158729563, RESELLER
+media.net, 8CU5L226O, RESELLER
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+triplelift.com, 14705-EB, RESELLER
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+media.net, 8CAXEGFDP, RESELLER
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+media.net, 8CUUQ286L, RESELLER
